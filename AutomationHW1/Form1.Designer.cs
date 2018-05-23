@@ -44,6 +44,8 @@
             this.buttonRunTest = new System.Windows.Forms.Button();
             this.richTextBoxOutput = new System.Windows.Forms.RichTextBox();
             this.textBoxAccessToken = new System.Windows.Forms.TextBox();
+            this.LabelCommandToRun = new System.Windows.Forms.Label();
+            this.richTextBoxCommand = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // LabelProject
@@ -173,7 +175,7 @@
             this.richTextBoxOutput.Location = new System.Drawing.Point(35, 294);
             this.richTextBoxOutput.Name = "richTextBoxOutput";
             this.richTextBoxOutput.ReadOnly = true;
-            this.richTextBoxOutput.Size = new System.Drawing.Size(295, 238);
+            this.richTextBoxOutput.Size = new System.Drawing.Size(696, 238);
             this.richTextBoxOutput.TabIndex = 16;
             this.richTextBoxOutput.Text = "";
             // 
@@ -185,11 +187,31 @@
             this.textBoxAccessToken.TabIndex = 14;
             this.textBoxAccessToken.Text = "98IQGMuu1jTaBp3HvIMkmsk6tTa2jrS4hUFE247rX9ef0s3FAp";
             // 
+            // LabelCommandToRun
+            // 
+            this.LabelCommandToRun.AutoSize = true;
+            this.LabelCommandToRun.Location = new System.Drawing.Point(530, 32);
+            this.LabelCommandToRun.Name = "LabelCommandToRun";
+            this.LabelCommandToRun.Size = new System.Drawing.Size(122, 17);
+            this.LabelCommandToRun.TabIndex = 17;
+            this.LabelCommandToRun.Text = "Command To Run";
+            // 
+            // richTextBoxCommand
+            // 
+            this.richTextBoxCommand.Location = new System.Drawing.Point(433, 61);
+            this.richTextBoxCommand.Name = "richTextBoxCommand";
+            this.richTextBoxCommand.ReadOnly = true;
+            this.richTextBoxCommand.Size = new System.Drawing.Size(298, 167);
+            this.richTextBoxCommand.TabIndex = 18;
+            this.richTextBoxCommand.Text = "";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(395, 544);
+            this.ClientSize = new System.Drawing.Size(761, 544);
+            this.Controls.Add(this.richTextBoxCommand);
+            this.Controls.Add(this.LabelCommandToRun);
             this.Controls.Add(this.richTextBoxOutput);
             this.Controls.Add(this.buttonRunTest);
             this.Controls.Add(this.textBoxAccessToken);
@@ -231,6 +253,8 @@
         private System.Windows.Forms.Button buttonRunTest;
         private System.Windows.Forms.RichTextBox richTextBoxOutput;
         private System.Windows.Forms.TextBox textBoxAccessToken;
+        private System.Windows.Forms.Label LabelCommandToRun;
+        private System.Windows.Forms.RichTextBox richTextBoxCommand;
     }
 }
 
