@@ -51,120 +51,148 @@
             // LabelProject
             // 
             this.LabelProject.AutoSize = true;
-            this.LabelProject.Location = new System.Drawing.Point(32, 27);
+            this.LabelProject.Font = new System.Drawing.Font("Segoe Print", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LabelProject.Location = new System.Drawing.Point(24, 22);
+            this.LabelProject.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LabelProject.Name = "LabelProject";
-            this.LabelProject.Size = new System.Drawing.Size(52, 17);
+            this.LabelProject.Size = new System.Drawing.Size(50, 19);
             this.LabelProject.TabIndex = 0;
             this.LabelProject.Text = "Project";
             // 
             // LabelAccessToken
             // 
             this.LabelAccessToken.AutoSize = true;
-            this.LabelAccessToken.Location = new System.Drawing.Point(30, 57);
+            this.LabelAccessToken.Font = new System.Drawing.Font("Segoe Print", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LabelAccessToken.Location = new System.Drawing.Point(22, 46);
+            this.LabelAccessToken.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LabelAccessToken.Name = "LabelAccessToken";
-            this.LabelAccessToken.Size = new System.Drawing.Size(97, 17);
+            this.LabelAccessToken.Size = new System.Drawing.Size(82, 19);
             this.LabelAccessToken.TabIndex = 1;
             this.LabelAccessToken.Text = "Access Token";
             // 
             // LabelLabel
             // 
             this.LabelLabel.AutoSize = true;
-            this.LabelLabel.Location = new System.Drawing.Point(32, 87);
+            this.LabelLabel.Font = new System.Drawing.Font("Segoe Print", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LabelLabel.Location = new System.Drawing.Point(24, 71);
+            this.LabelLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LabelLabel.Name = "LabelLabel";
-            this.LabelLabel.Size = new System.Drawing.Size(43, 17);
+            this.LabelLabel.Size = new System.Drawing.Size(37, 19);
             this.LabelLabel.TabIndex = 2;
             this.LabelLabel.Text = "Label";
             // 
             // LabelTestName
             // 
             this.LabelTestName.AutoSize = true;
-            this.LabelTestName.Location = new System.Drawing.Point(30, 119);
+            this.LabelTestName.Font = new System.Drawing.Font("Segoe Print", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LabelTestName.Location = new System.Drawing.Point(22, 97);
+            this.LabelTestName.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LabelTestName.Name = "LabelTestName";
-            this.LabelTestName.Size = new System.Drawing.Size(77, 17);
+            this.LabelTestName.Size = new System.Drawing.Size(68, 19);
             this.LabelTestName.TabIndex = 3;
             this.LabelTestName.Text = "Test Name";
             // 
             // LabelTestID
             // 
             this.LabelTestID.AutoSize = true;
-            this.LabelTestID.Location = new System.Drawing.Point(30, 149);
+            this.LabelTestID.Font = new System.Drawing.Font("Segoe Print", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LabelTestID.Location = new System.Drawing.Point(22, 121);
+            this.LabelTestID.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LabelTestID.Name = "LabelTestID";
-            this.LabelTestID.Size = new System.Drawing.Size(53, 17);
+            this.LabelTestID.Size = new System.Drawing.Size(48, 19);
             this.LabelTestID.TabIndex = 4;
             this.LabelTestID.Text = "Test ID";
             // 
             // LabelConfigFile
             // 
             this.LabelConfigFile.AutoSize = true;
-            this.LabelConfigFile.Location = new System.Drawing.Point(30, 181);
+            this.LabelConfigFile.Font = new System.Drawing.Font("Segoe Print", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LabelConfigFile.Location = new System.Drawing.Point(22, 147);
+            this.LabelConfigFile.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LabelConfigFile.Name = "LabelConfigFile";
-            this.LabelConfigFile.Size = new System.Drawing.Size(74, 17);
+            this.LabelConfigFile.Size = new System.Drawing.Size(66, 19);
             this.LabelConfigFile.TabIndex = 5;
             this.LabelConfigFile.Text = "Config File";
             // 
             // LabelReportFile
             // 
             this.LabelReportFile.AutoSize = true;
-            this.LabelReportFile.Location = new System.Drawing.Point(30, 211);
+            this.LabelReportFile.Font = new System.Drawing.Font("Segoe Print", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LabelReportFile.Location = new System.Drawing.Point(22, 171);
+            this.LabelReportFile.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LabelReportFile.Name = "LabelReportFile";
-            this.LabelReportFile.Size = new System.Drawing.Size(77, 17);
+            this.LabelReportFile.Size = new System.Drawing.Size(70, 19);
             this.LabelReportFile.TabIndex = 6;
             this.LabelReportFile.Text = "Report File";
             // 
             // textBoxProject
             // 
-            this.textBoxProject.Location = new System.Drawing.Point(146, 27);
+            this.textBoxProject.Font = new System.Drawing.Font("Trebuchet MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxProject.Location = new System.Drawing.Point(110, 22);
+            this.textBoxProject.Margin = new System.Windows.Forms.Padding(2);
             this.textBoxProject.Name = "textBoxProject";
-            this.textBoxProject.Size = new System.Drawing.Size(221, 22);
+            this.textBoxProject.Size = new System.Drawing.Size(167, 20);
             this.textBoxProject.TabIndex = 7;
             this.textBoxProject.Text = "KsfNpLJSbdNlY8czyuwb";
             // 
             // textBoxTestID
             // 
-            this.textBoxTestID.Location = new System.Drawing.Point(146, 146);
+            this.textBoxTestID.Font = new System.Drawing.Font("Trebuchet MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxTestID.Location = new System.Drawing.Point(110, 119);
+            this.textBoxTestID.Margin = new System.Windows.Forms.Padding(2);
             this.textBoxTestID.Name = "textBoxTestID";
-            this.textBoxTestID.Size = new System.Drawing.Size(221, 22);
+            this.textBoxTestID.Size = new System.Drawing.Size(167, 20);
             this.textBoxTestID.TabIndex = 8;
             this.textBoxTestID.Text = "N\\A";
             // 
             // textBoxConfigFile
             // 
-            this.textBoxConfigFile.Location = new System.Drawing.Point(146, 178);
+            this.textBoxConfigFile.Font = new System.Drawing.Font("Trebuchet MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxConfigFile.Location = new System.Drawing.Point(110, 145);
+            this.textBoxConfigFile.Margin = new System.Windows.Forms.Padding(2);
             this.textBoxConfigFile.Name = "textBoxConfigFile";
-            this.textBoxConfigFile.Size = new System.Drawing.Size(221, 22);
+            this.textBoxConfigFile.Size = new System.Drawing.Size(167, 20);
             this.textBoxConfigFile.TabIndex = 9;
             this.textBoxConfigFile.Text = "N\\A";
             // 
             // textBoxReportFile
             // 
-            this.textBoxReportFile.Location = new System.Drawing.Point(146, 206);
+            this.textBoxReportFile.Font = new System.Drawing.Font("Trebuchet MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxReportFile.Location = new System.Drawing.Point(110, 167);
+            this.textBoxReportFile.Margin = new System.Windows.Forms.Padding(2);
             this.textBoxReportFile.Name = "textBoxReportFile";
-            this.textBoxReportFile.Size = new System.Drawing.Size(221, 22);
+            this.textBoxReportFile.Size = new System.Drawing.Size(167, 20);
             this.textBoxReportFile.TabIndex = 11;
             this.textBoxReportFile.Text = "testim-report.xml";
             // 
             // textBoxLabel
             // 
-            this.textBoxLabel.Location = new System.Drawing.Point(146, 82);
+            this.textBoxLabel.Font = new System.Drawing.Font("Trebuchet MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxLabel.Location = new System.Drawing.Point(110, 67);
+            this.textBoxLabel.Margin = new System.Windows.Forms.Padding(2);
             this.textBoxLabel.Name = "textBoxLabel";
-            this.textBoxLabel.Size = new System.Drawing.Size(221, 22);
+            this.textBoxLabel.Size = new System.Drawing.Size(167, 20);
             this.textBoxLabel.TabIndex = 13;
             this.textBoxLabel.Text = "Avengers";
             // 
             // textBoxTestName
             // 
-            this.textBoxTestName.Location = new System.Drawing.Point(146, 116);
+            this.textBoxTestName.Font = new System.Drawing.Font("Trebuchet MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxTestName.Location = new System.Drawing.Point(110, 94);
+            this.textBoxTestName.Margin = new System.Windows.Forms.Padding(2);
             this.textBoxTestName.Name = "textBoxTestName";
-            this.textBoxTestName.Size = new System.Drawing.Size(221, 22);
+            this.textBoxTestName.Size = new System.Drawing.Size(167, 20);
             this.textBoxTestName.TabIndex = 12;
             this.textBoxTestName.Text = "N\\A";
             // 
             // buttonRunTest
             // 
             this.buttonRunTest.Enabled = false;
-            this.buttonRunTest.Location = new System.Drawing.Point(146, 254);
+            this.buttonRunTest.Font = new System.Drawing.Font("Kristen ITC", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonRunTest.Location = new System.Drawing.Point(136, 204);
+            this.buttonRunTest.Margin = new System.Windows.Forms.Padding(2);
             this.buttonRunTest.Name = "buttonRunTest";
-            this.buttonRunTest.Size = new System.Drawing.Size(75, 23);
+            this.buttonRunTest.Size = new System.Drawing.Size(105, 31);
             this.buttonRunTest.TabIndex = 15;
             this.buttonRunTest.Text = "Run Test";
             this.buttonRunTest.UseVisualStyleBackColor = true;
@@ -172,44 +200,53 @@
             // 
             // richTextBoxOutput
             // 
-            this.richTextBoxOutput.Location = new System.Drawing.Point(35, 294);
+            this.richTextBoxOutput.Font = new System.Drawing.Font("Arial Narrow", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.richTextBoxOutput.Location = new System.Drawing.Point(28, 254);
+            this.richTextBoxOutput.Margin = new System.Windows.Forms.Padding(2);
             this.richTextBoxOutput.Name = "richTextBoxOutput";
             this.richTextBoxOutput.ReadOnly = true;
-            this.richTextBoxOutput.Size = new System.Drawing.Size(696, 238);
+            this.richTextBoxOutput.Size = new System.Drawing.Size(523, 267);
             this.richTextBoxOutput.TabIndex = 16;
             this.richTextBoxOutput.Text = "";
             // 
             // textBoxAccessToken
             // 
-            this.textBoxAccessToken.Location = new System.Drawing.Point(146, 54);
+            this.textBoxAccessToken.Font = new System.Drawing.Font("Trebuchet MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxAccessToken.Location = new System.Drawing.Point(110, 44);
+            this.textBoxAccessToken.Margin = new System.Windows.Forms.Padding(2);
             this.textBoxAccessToken.Name = "textBoxAccessToken";
-            this.textBoxAccessToken.Size = new System.Drawing.Size(221, 22);
+            this.textBoxAccessToken.Size = new System.Drawing.Size(167, 20);
             this.textBoxAccessToken.TabIndex = 14;
             this.textBoxAccessToken.Text = "98IQGMuu1jTaBp3HvIMkmsk6tTa2jrS4hUFE247rX9ef0s3FAp";
             // 
             // LabelCommandToRun
             // 
             this.LabelCommandToRun.AutoSize = true;
-            this.LabelCommandToRun.Location = new System.Drawing.Point(530, 32);
+            this.LabelCommandToRun.Font = new System.Drawing.Font("Segoe Print", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LabelCommandToRun.Location = new System.Drawing.Point(374, 22);
+            this.LabelCommandToRun.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LabelCommandToRun.Name = "LabelCommandToRun";
-            this.LabelCommandToRun.Size = new System.Drawing.Size(122, 17);
+            this.LabelCommandToRun.Size = new System.Drawing.Size(130, 23);
             this.LabelCommandToRun.TabIndex = 17;
             this.LabelCommandToRun.Text = "Command To Run";
             // 
             // richTextBoxCommand
             // 
-            this.richTextBoxCommand.Location = new System.Drawing.Point(433, 61);
+            this.richTextBoxCommand.Font = new System.Drawing.Font("Trebuchet MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.richTextBoxCommand.Location = new System.Drawing.Point(325, 51);
+            this.richTextBoxCommand.Margin = new System.Windows.Forms.Padding(2);
             this.richTextBoxCommand.Name = "richTextBoxCommand";
             this.richTextBoxCommand.ReadOnly = true;
-            this.richTextBoxCommand.Size = new System.Drawing.Size(298, 167);
+            this.richTextBoxCommand.Size = new System.Drawing.Size(224, 136);
             this.richTextBoxCommand.TabIndex = 18;
             this.richTextBoxCommand.Text = "";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(761, 544);
+            this.BackgroundImage = global::AutomationHW1.Properties.Resources._31016_katie_ux_ut;
+            this.ClientSize = new System.Drawing.Size(571, 532);
             this.Controls.Add(this.richTextBoxCommand);
             this.Controls.Add(this.LabelCommandToRun);
             this.Controls.Add(this.richTextBoxOutput);
@@ -228,6 +265,7 @@
             this.Controls.Add(this.LabelLabel);
             this.Controls.Add(this.LabelAccessToken);
             this.Controls.Add(this.LabelProject);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

@@ -19,6 +19,7 @@ namespace AutomationHW1
             p.StartInfo.RedirectStandardError = true;
             p.StartInfo.FileName = "cmd.exe";
             p.StartInfo.Arguments = "/c " + command;
+            MessageBox.Show(command);
             p.Start();
             p.WaitForExit();
 
@@ -48,7 +49,7 @@ namespace AutomationHW1
             output += '"' + testDict["project"] + '"' + " ";
 
             output += "--label ";
-            output += '"' + testDict["label"] + '"';
+            output += '"' + testDict["label"] + '"' + " ";
 
             output += "--host ";
             output += '"' + "ondemand.testim.io" + '"' + " ";
