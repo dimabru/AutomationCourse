@@ -143,7 +143,6 @@
             this.textBoxTestID.Name = "textBoxTestID";
             this.textBoxTestID.Size = new System.Drawing.Size(167, 20);
             this.textBoxTestID.TabIndex = 8;
-            this.textBoxTestID.Text = "N\\A";
             // 
             // textBoxConfigFile
             // 
@@ -153,7 +152,6 @@
             this.textBoxConfigFile.Name = "textBoxConfigFile";
             this.textBoxConfigFile.Size = new System.Drawing.Size(167, 20);
             this.textBoxConfigFile.TabIndex = 9;
-            this.textBoxConfigFile.Text = "N\\A";
             // 
             // textBoxReportFile
             // 
@@ -173,7 +171,7 @@
             this.textBoxLabel.Name = "textBoxLabel";
             this.textBoxLabel.Size = new System.Drawing.Size(167, 20);
             this.textBoxLabel.TabIndex = 13;
-            this.textBoxLabel.Text = "Avengers";
+            this.textBoxLabel.Text = "Dima_Yaharin";
             // 
             // textBoxTestName
             // 
@@ -183,7 +181,6 @@
             this.textBoxTestName.Name = "textBoxTestName";
             this.textBoxTestName.Size = new System.Drawing.Size(167, 20);
             this.textBoxTestName.TabIndex = 12;
-            this.textBoxTestName.Text = "N\\A";
             // 
             // buttonRunTest
             // 
@@ -267,7 +264,7 @@
             this.Controls.Add(this.LabelProject);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Test Tool Dima_Yaharin";
             this.ResumeLayout(false);
             this.PerformLayout();
 
