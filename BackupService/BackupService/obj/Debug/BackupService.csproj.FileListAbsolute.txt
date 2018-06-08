@@ -1,0 +1,16 @@
+C:\Users\dimab\OneDrive\מסמכים\Visual Studio 2017\Projects\AutomationHW1\BackupService\BackupService\bin\Debug\BackupService.exe.config
+C:\Users\dimab\OneDrive\מסמכים\Visual Studio 2017\Projects\AutomationHW1\BackupService\BackupService\bin\Debug\BackupService.exe
+C:\Users\dimab\OneDrive\מסמכים\Visual Studio 2017\Projects\AutomationHW1\BackupService\BackupService\bin\Debug\BackupService.pdb
+C:\Users\dimab\OneDrive\מסמכים\Visual Studio 2017\Projects\AutomationHW1\BackupService\BackupService\obj\Debug\BackupService.csprojResolveAssemblyReference.cache
+C:\Users\dimab\OneDrive\מסמכים\Visual Studio 2017\Projects\AutomationHW1\BackupService\BackupService\obj\Debug\BackupService.exe
+C:\Users\dimab\OneDrive\מסמכים\Visual Studio 2017\Projects\AutomationHW1\BackupService\BackupService\obj\Debug\BackupService.pdb
+C:\Users\dimab\OneDrive\מסמכים\Visual Studio 2017\Projects\AutomationHW1\BackupService\BackupService\obj\Debug\BackupService.ProjectInstaller.resources
+C:\Users\dimab\OneDrive\מסמכים\Visual Studio 2017\Projects\AutomationHW1\BackupService\BackupService\obj\Debug\BackupService.csproj.GenerateResource.Cache
+D:\Git Projects\AutomationHW1\BackupService\BackupService\bin\Debug\BackupService.exe.config
+D:\Git Projects\AutomationHW1\BackupService\BackupService\bin\Debug\BackupService.exe
+D:\Git Projects\AutomationHW1\BackupService\BackupService\bin\Debug\BackupService.pdb
+D:\Git Projects\AutomationHW1\BackupService\BackupService\obj\Debug\BackupService.csprojResolveAssemblyReference.cache
+D:\Git Projects\AutomationHW1\BackupService\BackupService\obj\Debug\BackupService.ProjectInstaller.resources
+D:\Git Projects\AutomationHW1\BackupService\BackupService\obj\Debug\BackupService.csproj.GenerateResource.Cache
+D:\Git Projects\AutomationHW1\BackupService\BackupService\obj\Debug\BackupService.exe
+D:\Git Projects\AutomationHW1\BackupService\BackupService\obj\Debug\BackupService.pdb
